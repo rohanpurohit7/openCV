@@ -17,7 +17,7 @@ import org.opencv.objdetect.CascadeClassifier;
 
 //
 // Detects faces in an image, draws boxes around them, and writes the results
-// to "faceDetection.png".
+// to "faceDetectionofLenaOutput.bmp".
 //
 
 class DetectFaceDemo {
